@@ -1,0 +1,15 @@
+{
+  "name": "todo-ai-agent",
+  "version": "1.0.0",
+  "description": "A minimal AI agent that demonstrates the **Perceive → Plan → Act → Reflect** loop using natural language and a simple task list.  \r This project is designed as a lightweight showcase of agent concepts — perfect for learning, demos, or portfolio use.",
+  "main": "index.js",
+   "scripts": {
+    "install:all": "concurrently \"npm install --prefix backend\" \"npm install --prefix frontend\"",
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

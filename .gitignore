@@ -1,0 +1,8 @@
+# Ignore local environment overrides
+.env.local
+
+# Optional: ignore all env files except the base .env
+# Uncomment if you only want to keep a safe default .env in Git
+# .env.*
+# !.env
+node_modules
