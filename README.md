@@ -82,4 +82,4 @@ This project uses environment files for configuration:
    * /frontend runs on port 5173
    
 
-![image](https://martinstack.dev/pixel?r=dev-notes&f=todo-ai-agent-demo)
+![image](https://martinstack.dev/pixel?r=todo-ai-agent-demo)
